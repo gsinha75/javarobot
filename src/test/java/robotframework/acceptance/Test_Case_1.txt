@@ -5,4 +5,4 @@ Library		Selenium2Library
 *** Test Cases ***
 Check out joe colantonio dot com
 	Open Browser  https://www.joecolantonio.com  ff
-	Close Browser
+	
